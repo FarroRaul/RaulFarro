@@ -6,7 +6,7 @@ Mi numero de legajo es 1513916
 
 Vivo en Caba
 
-Tengo un emprendien de venta de calzados 
+Tengo un emprendimiento de venta de calzados 
 
 # Pasatiempos
 
