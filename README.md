@@ -11,7 +11,7 @@ Tengo un emprendimiento de venta de calzados
 # Pasatiempos
 
 - Practico el ciclismo
-- Filmo eventos sociales y trabajos de otras personas
+- Filmo eventos sociales y trabajos/actividades de otras personas
 
 ## Contacto:
 
